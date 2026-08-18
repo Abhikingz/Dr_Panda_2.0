@@ -1,0 +1,5 @@
+test_name,normal_range,elevated_range,insight
+Fasting Blood Glucose,70 to 99 mg/dL,> 126 mg/dL,Indicates blood sugar regulation. High levels suggest hyperglycemia or diabetes.
+Hemoglobin Hb,12.0 to 16.5 g/dL,< 10.0 g/dL,Measures oxygen carrying capacity. Low levels suggest anemia.
+White Blood Cell Count WBC,"4,500 to 11,000 cells/uL","> 12,000 cells/uL",Elevated WBC indicates active immune response or bacterial infection.
+Total Cholesterol,< 200 mg/dL,> 240 mg/dL,High cholesterol increases cardiovascular risk factor scores.
