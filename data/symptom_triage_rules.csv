@@ -1,0 +1,4 @@
+symptom_keyword,urgency_level,hospital_recommendation
+chest pain,Emergency,Go to Hospital Emergency Room immediately
+headache,Low,"Rest at home, monitor symptoms, consult doctor if persistent"
+fever,Moderate,Consult physician if fever exceeds 102F or lasts over 48 hours
