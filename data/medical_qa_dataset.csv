@@ -1,0 +1,6 @@
+symptom_query,condition,urgency,action,home_care
+high fever severe headache stiff neck light sensitivity,Meningitis Screening Alert,Emergency,Immediate Emergency Room Visit Required,Do not delay. Seek immediate emergency care.
+chest pain radiating to left arm shortness of breath sweating,Acute Cardiac Warning,Emergency,Call Ambulance / Emergency Care Immediately,Keep patient calm and seated until medical help arrives.
+persistent cough shortness of breath mild fever fatigue,Acute Bronchitis or Respiratory Infection,Moderate,Schedule Doctor Appointment within 24 hours,"Rest, stay hydrated, use warm fluid steam inhalation."
+sharp throbbing headache nausea light sensitivity blurred vision,Migraine Headache Episode,Low,Home Care and Rest Recommended,"Rest in a dark quiet room, drink electrolytes, take prescribed pain relief."
+frequent urination excessive thirst unexplained weight loss fatigue,Elevated Blood Glucose Indicator,Moderate,Schedule Endocrinologist / GP Consultation,Monitor daily fasting blood sugar and maintain balanced hydration.
